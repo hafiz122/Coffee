@@ -1,0 +1,27 @@
+name: Coffee
+main: me.rabbitdegamer.coffee.CoffeeMain
+version: 1.0
+author: RabbitDeGamer
+description: Drink coffee!
+ 
+commands:
+  cappuccino:
+    description: Drink a coffee!
+    usage: /<command>
+    aliases: [co]
+  espresso:
+    description: Drink a coffee!
+    usage: /<command>
+    aliases: [epo]
+  latte:
+    description: Drink a coffee!
+    usage: /<command>
+    aliases: [lte]  
+  mocha:
+    description: Drink a coffee!
+    usage: /<command>
+    aliases: [mca]  
+  getcoffeebrewer:
+    description: Get a coffee brewer!
+    usage: /<command>
+    aliases: [gcb]   
